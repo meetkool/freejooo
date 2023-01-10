@@ -11,6 +11,8 @@ Welcome to my first website! This website is a collection of my personal project
 
 To view this website, you will need a web browser and an internet connection. No additional setup is required.
 
+all the files are uploaded in 'freejooo' branch
+
 ## Dependencies
 
 This website uses the following external libraries:
