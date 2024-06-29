@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: nardcart_blogs
+    env: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    httpPort: 80
